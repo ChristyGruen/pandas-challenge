@@ -3,11 +3,12 @@
 
 Homework Log
 
-&#x2764; &#x1F9E1; &#x1F49B; &#x1F49A; &#x1F499; &#x1F49C;
+:panda_face: &#x1F43C; &#x2764; &#x1F9E1; &#x1F49B; &#x1F49A; &#x1F499; &#x1F49C; &#x1F43C; :panda_face:
 
-      hearts references 
+      emoji references
       https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown 
       https://www.unicode.org/emoji/charts/full-emoji-list.html
+      https://emojipedia.org/panda/
 
 
 
