@@ -2,8 +2,13 @@
 ### Chris Gruenhagen 14Oct2022
 
 Homework Log
-Christry hearts from https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown
-RED HEART (&#x1F49D;): 💙 ORANGE HEART (&#x1F49E;): 💙 YELLOW HEART (&#x1F49B;): 💛 GREEN HEART (&#x1F49A;): 💚 BLUE HEART (&#x1F499;): 💙 PURPLE HEART (&#x1F49C;): 💜
+
+&#x2764; &#x1F9E1; &#x1F49B; &#x1F49A; &#x1F499; &#x1F49C;
+
+      hearts references 
+      https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown 
+      https://www.unicode.org/emoji/charts/full-emoji-list.html
+
 
 
 
